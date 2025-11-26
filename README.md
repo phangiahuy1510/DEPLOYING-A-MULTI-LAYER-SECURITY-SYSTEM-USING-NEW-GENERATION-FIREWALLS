@@ -7,4 +7,9 @@
 => Khuyến cáo sử dụng UltraVNC vì từ Windows máy ảo ta có thể kết nối ra được các ứng dụng Internet từ đó phục vụ tốt hơn cho việc kiểm tra tính bảo mật cũng như các chức năng demo  
 4.Công cụ giả lập mạng: EVE-NG, PNetlab, ..  
   
-Các công cụ trên có thể tùy chọn tùy theo demo người sử dụng. Về phần cài đặt và import trên mạng đã có hướng dẫn, các bạn tự tìm và chọn cho mình các công cụ mà mình muốn.   
+Các công cụ trên có thể tùy chọn tùy theo demo người sử dụng. Về phần cài đặt và import trên mạng đã có hướng dẫn, các bạn tự tìm và chọn cho mình các công cụ mà mình muốn.  
+Đối với đồ án trên, mình sử dụng
+1.Máy ảo: VMWare  
+2.WinSCP để Import Windows , Firewall Fortigate , Cisco IOL để cấu hình trong EVE-NG  
+3.Công cụ giả lập mạng: EVE-NG  
+4.UltraVNC để giả lập máy ảo kiểm tra kết nối  
