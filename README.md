@@ -14,3 +14,18 @@ Các công cụ trên có thể tùy chọn tùy theo demo người sử dụng.
 2.WinSCP để Import Windows , Firewall Fortigate , Cisco IOL để cấu hình trong EVE-NG  
 3.Công cụ giả lập mạng: EVE-NG  
 4.UltraVNC để giả lập máy ảo kiểm tra kết nối  
+5.Windows Server  
+
+Tiến hành thực hiện các chức năng:  
+Trên Fortigate:  
+- SSLVPN  
+- SDWAN  
+- Limit Bandwidth
+- Web Filtering
+- DHCP Server
+- LACP
+- Backup & Restore
+
+Trên Windows Server:  
+- Domain Controller
+- Authenticator with LDAP Server
