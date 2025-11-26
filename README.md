@@ -2,7 +2,7 @@
 
 #Các công cụ cần có
 1.Máy ảo: VMWare,Virtual Box,..
-2.Cài đặt WinSCP
+#2.Cài đặt WinSCP
 3.Sử dụng UltraVNC hoặc MobaXterm để kiểm tra kết nối 
 => Khuyến cáo sử dụng UltraVNC vì từ Windows máy ảo ta có thể kết nối ra được các ứng dụng Internet từ đó phục vụ tốt hơn cho việc kiểm tra tính bảo mật cũng như các chức năng demo
 4.Công cụ giả lập mạng: EVE-NG, PNetlab, ..
